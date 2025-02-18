@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Hi
 
-_Get started using GitHub in less than an hour._
+_Get started with me._
 
 </header>
 
@@ -20,7 +20,7 @@ _Get started using GitHub in less than an hour._
 
 ## Finish
 
-_Congratulations, you've completed this course and joined the world of developers!_
+_Progress_
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
