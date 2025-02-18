@@ -9,7 +9,7 @@
 
 # hi
 
-_pls don't read ._
+_pls don't read this._
 
 </header>
 
@@ -23,7 +23,7 @@ _pls don't read ._
 
 ## Finish for second header
   Review what we learned, ask for feedback, provide next steps.
--->
+
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
 Here's a recap of my accomplishments:
@@ -31,7 +31,7 @@ Here's a recap of my accomplishments:
 - created a branch, a commit, and a pull request.
 - merged a pull request.
 - made your first contribution! :tada:
-
+-->
 <!--
 ### What's next?
   Review what we learned, ask for feedback, provide next steps.
@@ -46,6 +46,6 @@ Here's a recap of my accomplishments:
 -->
 
 ---
-ok bye
+ok bye!
 
 </footer>
