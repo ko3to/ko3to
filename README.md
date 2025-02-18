@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hi
+# hi
 
-_Get started ._
+_pls don't read ._
 
 </header>
 
@@ -28,10 +28,9 @@ _Get started ._
 
 Here's a recap of my accomplishments:
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+- created a branch, a commit, and a pull request.
+- merged a pull request.
+- made your first contribution! :tada:
 
 <!--
 ### What's next?
@@ -47,6 +46,6 @@ Here's a recap of my accomplishments:
 -->
 
 ---
-bye
+ok bye
 
 </footer>
