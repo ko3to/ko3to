@@ -9,7 +9,7 @@
 
 # Hi
 
-_Get started with me._
+_Get started ._
 
 </header>
 
@@ -18,21 +18,25 @@ _Get started with me._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+<!--
+  <<< Author notes: Finish >>>
 
-_Progress_
-
+## Finish for second header
+  Review what we learned, ask for feedback, provide next steps.
+-->
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+Here's a recap of my accomplishments:
 
 - You learned about GitHub, repositories, branches, commits, and pull requests.
 - You created a branch, a commit, and a pull request.
 - You merged a pull request.
 - You made your first contribution! :tada:
 
+<!--
 ### What's next?
-
+  Review what we learned, ask for feedback, provide next steps.
+-->
 
 
 <footer>
